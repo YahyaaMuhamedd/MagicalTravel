@@ -33,7 +33,7 @@ export default function HomePage() {
                 <section className=" flex flex-col items-center justify-center ">
                     <div className="bg-black bg-opacity-50 p-8 text-center rounded-lg">
                         <h2 className="text-4xl font-bold mb-4">Find Your Best Holiday</h2>
-                        <p className="text-lg mb-6">Find great adventure holidays and activities around the planet.</p>
+                        <p className="text-lg mb-6">Find great adventure holidays and activities around Egypt.</p>
                         <div className="relative flex w-full gap-2">
                             <input
                                 type="text"
